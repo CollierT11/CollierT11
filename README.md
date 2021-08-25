@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CollierT11
 - 👀 I’m interested in ... simracing, programming and 3D printing
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ... how to 3D print, would like to learn Python and Javascript
 - 💞️ I’m looking to collaborate on ... any simracing applications
 - 📫 How to reach me ... message me here
 
